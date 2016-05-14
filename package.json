@@ -1,0 +1,19 @@
+{
+  "name": "sum-arr",
+  "version": "1.0.1",
+  "description": "Calculate sum of all elements in the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkuhar/sum-arr.git"
+  },
+  "author": "Alex Kukharets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkuhar/sum-arr/issues"
+  },
+  "homepage": "https://github.com/alkuhar/sum-arr#readme"
+}
